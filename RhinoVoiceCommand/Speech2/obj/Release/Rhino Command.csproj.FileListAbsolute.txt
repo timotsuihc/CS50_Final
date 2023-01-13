@@ -1,0 +1,8 @@
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\bin\Release\Speech_Tutorial_2.exe.config
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\bin\Release\Speech_Tutorial_2.exe
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\bin\Release\Speech_Tutorial_2.pdb
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\obj\Release\Speech_Tutorial_2.Form1.resources
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\obj\Release\Speech_Tutorial_2.Properties.Resources.resources
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\obj\Release\Rhino Command.csproj.GenerateResource.Cache
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\obj\Release\Speech_Tutorial_2.exe
+D:\Timo\Documents\Visual Studio 2015\Projects\RhinoVoiceCommand\Speech Tutorial 2\obj\Release\Speech_Tutorial_2.pdb
